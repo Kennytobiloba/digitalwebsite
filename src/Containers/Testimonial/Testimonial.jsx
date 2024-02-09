@@ -1,6 +1,6 @@
 import React from 'react';
 import Icon from '../../assets/icon-quote.png';
-import convertkit from '../../assets/convertkit (1).png';
+import convertkit from '../../assets/convertkitone.png';
 import People from '../../assets/people-img.png';
 import Peopletwo from '../../assets/people2-img.png';
 

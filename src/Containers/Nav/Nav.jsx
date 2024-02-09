@@ -20,7 +20,7 @@ const Nav = () => {
   return (
     <div>
 
-<nav className="fixed-nav-bar">
+<nav className="fixed-nav-bar lg:h-[15vh] h-[10vh]">
 <div className='w-full px-[2.5rem]  lg:px-[6rem] py-[2.4rem]  h-[100%] md:px-[4rem] items-center flex justify-between mx-auto'>
             <div>
               <img src={Logo} alt="" />

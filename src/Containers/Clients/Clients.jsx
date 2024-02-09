@@ -1,10 +1,10 @@
 import React from 'react';
-import VectorOne from "../../assets/Sisila (1).png";
-import VectorTwo from "../../assets/Sisila (2).png";
+import VectorOne from "../../assets/Sisilaone.png";
+import VectorTwo from "../../assets/sisilatwo.png";
 import VectorThree from "../../assets/Sisila.png";
 import VectorFour from "../../assets/Group.png";
-import VectorFive from "../../assets/Group (2).png";
-import VectorSix from "../../assets/Group (1).png";
+import VectorFive from "../../assets/Grouptwo.png";
+import VectorSix from "../../assets/Groupone.png";
 import VectorEight from "../../assets/convertkit.png";
 
 const Clients = () => {
