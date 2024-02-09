@@ -27,13 +27,13 @@ const Nav = () => {
             </div>
 
             {/* Desktop section */}
-            <div className='bg-white lg:flex hidden space-x-10 p-[1rem] justify-center items-center'>
+            <div className='bg-white lg:flex hidden space-x-10  justify-center items-center'>
               <Menu />
             </div>
             {/* Desktop section */}
 
             {/* Button section starts */}
-            <div className="p-4 md:p-6 lg:inline-flex hidden items-center justify-center border gap-8 bg-[#FAD007]" onMouseEnter={() => setShowArrow(true)} onMouseLeave={() => setShowArrow(false)}>
+            <div className="p-4 md:p-4 lg:inline-flex hidden items-center justify-center border gap-8 bg-[#FAD007]" onMouseEnter={() => setShowArrow(true)} onMouseLeave={() => setShowArrow(false)}>
               <div className='flex gap-2 items-center'>
                 <button className='leading-[24px] text-[14px] font-Clash text-[#39393B] font-medium '>Get in touch</button>
                 {showArrow && <FaArrowRight className='text-[16px]' />}
