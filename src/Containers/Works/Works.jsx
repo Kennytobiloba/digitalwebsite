@@ -1,6 +1,6 @@
 import React, {  useState } from 'react';
 import { FaArrowRight } from 'react-icons/fa';
-import Imageone from "../../assets/imageOnee.png"
+import Imageone from "../../assets/imageonee.png"
 import Imagetwo from "../../assets/image3.png"
 import Imagethree from "../../assets/image4.png"
 import Imagefour from "../../assets/image6.png"
