@@ -27,7 +27,7 @@ const Nav = () => {
             </div>
 
             {/* Desktop section */}
-            <div className='bg-white lg:flex hidden p-[0.5rem] space-x-10  justify-center items-center'>
+            <div className='bg-white lg:flex hidden px-[8px] py-[10px] space-x-10  justify-center items-center'>
               <Menu />
             </div>
             {/* Desktop section */}
