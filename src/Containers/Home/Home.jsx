@@ -7,7 +7,7 @@ const Home = () => {
   const [showArrow, setShowArrow] = useState(false);
   return (
     <div id='Home' >
-        <div className='  relative 2xl:p-20 lg:px-[6rem] px-[1rem] md:px-[4rem] flex flex-col justify-center items-center mx-auto text-center xl:mt-[8rem] md:mt-[8rem] mt-[6rem] lg:gap-10 gap-2'>
+        <div className='  relative 2xl:p-20 lg:px-[6rem] px-[1rem] md:px-[4rem] flex flex-col justify-center items-center mx-auto text-center xl:mt-[1rem] md:mt-[4rem] mt-[2rem] lg:gap-10 gap-2'>
           <div className='circle rounded-full left-[40%]'>
 
           </div>
